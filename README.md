@@ -8,4 +8,4 @@ Install and extract the ZIP file from [here](https://github.com/gamertike/reguil
 
 # Uninstallation
 
-Delete `users/you/AppData/roaming/.reguilded/themes/reguilded-theme-undefined` (on windows).
+Delete the source folder in `users/you/AppData/roaming/.reguilded/themes` (on windows).
